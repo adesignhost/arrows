@@ -1,5 +1,5 @@
-# arrows
-## CMS
+# ARROWS
+### CMS
 
 JavaScript client side navigation filter with search facility and management features.
 
