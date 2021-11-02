@@ -8,9 +8,9 @@ CONTENTS
 .htaccess (2kb Used to cache and gzip compress resources on-line)
 It is advisable not to use .htaccess off-line due to possible error 500 server misconfiguration issues.
 
-2-IN-1 PACKAGE
+<b>2-IN-1 PACKAGE</b>
 
-1) NAVIGATION FILTER
+<b>1) NAVIGATION FILTER</b>
 index.php (Home page) (4kb)
 arrows/arrows_example_filter.php (Mostly HTML layout and JS for the settings) (11kb)
 arrows/arrows_example_data.php (Easier to understand Example category and items data to render page) (2kb)
@@ -36,14 +36,14 @@ manage/updated.js (Updates JSON with category changes) (4kb)
 
 manage/categories.sql (Just the sub category table structure) (1kb)
 
-87kb/28kb zipped CODE USED BY THE DEMO ONLY SO CAN BE EXCLUDED IN YOUR LIVE VERSION
+<b>87kb/28kb zipped CODE USED BY THE DEMO ONLY SO CAN BE EXCLUDED IN YOUR LIVE VERSION</b>
 demo/arrows_demo_filter.php (Mostly HTML layout and JS for the settings) (14kb)
 demo/arrows_demo_data.php (Harder to understand Demo category and items data to render page) (19kb)
 demo/arrows_filter.min.css (Combines arrows_filter and manage arrows_categories) (14kb)
 demo/arrows_demo.js (This demo functions only) (7kb)
 demo/arrows_filter.min.js (Combines arrows_filter, arrows_demo and manage arrows_functions) (33kb)
 
-Grand Total 2-IN-1 download package size: 93kb zipped
+<b>Grand Total 2-IN-1 download package size: 93kb zipped</b>
 
 
 INTRO
