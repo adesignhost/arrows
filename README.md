@@ -47,6 +47,8 @@ demo/arrows_filter.min.js (Combines arrows_filter, arrows_demo and manage arrows
 
 <b>INTRO</b>
 
+[TRY OUR DEMO](https://adesignhost.co.uk/adh/arrows/)
+
 Creating this page saved over 90% of server resources by using templates and JS.
 If you then use CSS, JS & HTML Script caching techniques you can do even better.
 
