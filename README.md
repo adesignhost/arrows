@@ -3,7 +3,7 @@
 
 JavaScript client side navigation filter with search facility and management features
 
-CONTENTS
+<b>CONTENTS</b>
 
 .htaccess (2kb Used to cache and gzip compress resources on-line)
 It is advisable not to use .htaccess off-line due to possible error 500 server misconfiguration issues.
@@ -46,7 +46,7 @@ demo/arrows_filter.min.js (Combines arrows_filter, arrows_demo and manage arrows
 <b>Grand Total 2-IN-1 download package size: 93kb zipped</b>
 
 
-INTRO
+<b>INTRO</b>
 
 Creating this page saved over 90% of server resources by using templates and JS.
 If you then use CSS, JS & HTML Script caching techniques you can do even better.
