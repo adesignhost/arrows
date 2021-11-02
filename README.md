@@ -33,6 +33,7 @@ manage/updated.php (Updates database with category changes) (6kb)
 manage/arrows_categories.css (Styling) (6kb)
 
 manage/arrows_functions.js (ajax, form, tree, message general functions etc) (19kb)
+
 manage/arrows_functions.min.js (9kb Minified version of above)
 
 manage/categories.js (Displays sub category tree for editing) (5kb)
@@ -42,6 +43,7 @@ manage/updated.js (Updates JSON with category changes) (4kb)
 manage/categories.sql (Just the sub category table structure) (1kb)
 
 <b>87kb/28kb zipped CODE USED BY THE DEMO ONLY SO CAN BE EXCLUDED IN YOUR LIVE VERSION</b>
+
 demo/arrows_demo_filter.php (Mostly HTML layout and JS for the settings) (14kb)
 
 demo/arrows_demo_data.php (Harder to understand Demo category and items data to render page) (19kb)
