@@ -2,6 +2,7 @@
 # CMS
 
 JavaScript client side navigation filter with search facility and management features
+Copyright 2021 © Aidan Woodrow (aDesignHost) All Rights Reserved.
 
 <b>CONTENTS</b>
 
