@@ -45,7 +45,6 @@ demo/arrows_filter.min.js (Combines arrows_filter, arrows_demo and manage arrows
 
 <b>Grand Total 2-IN-1 download package size: 93kb zipped</b>
 
-
 <b>INTRO</b>
 
 Creating this page saved over 90% of server resources by using templates and JS.
