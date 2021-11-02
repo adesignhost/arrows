@@ -37,7 +37,9 @@ manage/arrows_functions.js (ajax, form, tree, message general functions etc) (19
 manage/arrows_functions.min.js (9kb Minified version of above)
 
 manage/categories.js (Displays sub category tree for editing) (5kb)
+
 manage/itemcategories.js (Link items with main and sub categories) (4kb)
+
 manage/updated.js (Updates JSON with category changes) (4kb)
 
 manage/categories.sql (Just the sub category table structure) (1kb)
